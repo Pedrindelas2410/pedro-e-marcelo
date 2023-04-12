@@ -36,7 +36,8 @@ a{
 .menu li a{
     display: block;
     padding: 10px;
-    background-color: rgb(73, 73, 232);
+    background-color: rgb(26, 126, 192);
+    border-radius: 5px;
 }
 
 .flex{
